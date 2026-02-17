@@ -135,13 +135,13 @@ function showQuestion() {
     else {
         area.innerHTML = `
         <h3>
-        HerNameHere ❤️<br><br>
+        yashaswini ❤️<br><br>
         Even if you shout at me…<br>
         Even if you ignore me…<br><br>
         I love you extra during these days.<br>
         Because I know it's not easy for you 🥺
         </h3>
-        <button onclick="confetti()">Press if you love your irritating husband 💕</button>
+        <button onclick="confetti()">Press if you love your irritating husband raju 💕</button>
         `;
     }
 }
